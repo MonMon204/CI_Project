@@ -54,8 +54,7 @@ neural_lib_project/
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/MonMon204/CI_Project.git
 ```
 
 2. Install dependencies:
