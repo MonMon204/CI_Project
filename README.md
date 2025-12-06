@@ -21,8 +21,6 @@ neural_lib_project/
 │ └── utils.py # One-hot, minibatching helpers
 ├── report/
 │ └── report.pdf
-├── tests/
-│ └── test_layers.py # Basic unit tests
 ├── notebooks/
 │ └── CI_Project.ipynb
 ├── requirements.txt
