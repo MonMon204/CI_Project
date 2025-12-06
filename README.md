@@ -1,6 +1,6 @@
 # CI_Project
 
-# 🔬 Neural Network Library (NumPy From Scratch)
+# 🔬 Neural Network Library 
 
 This repository contains a fully modular **Neural Network Library implemented from scratch using only NumPy**.  
 It was built as part of a deep‑learning systems project to understand the internal mechanics of neural networks — including forward propagation, backpropagation, gradient computation, and model training.
@@ -15,7 +15,7 @@ neural_lib_project/
 │ ├── base.py # Layer abstraction
 │ ├── layers.py # Dense layer implementation
 │ ├── activations.py # ReLU, Sigmoid, Tanh, Softmax
-│ ├── losses.py # MSE, CrossEntropy
+│ ├── losses.py # MSE
 │ ├── optimizers.py # SGD optimizer
 │ ├── network.py # Sequential model
 │ └── utils.py # One-hot, minibatching helpers
@@ -35,7 +35,7 @@ neural_lib_project/
 - Base `Layer` abstraction  
 - `Dense` (fully connected) layer  
 - Activation functions: **ReLU, Sigmoid, Tanh, Softmax**  
-- Losses: **MSE, CrossEntropy**  
+- Losses: **MSE**  
 - Optimizer: **SGD**  
 - `Sequential` class for building models  
 - Mini-batching, utilities, one‑hot encoding  
